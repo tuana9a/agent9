@@ -1,0 +1,5 @@
+crossplane==0.5.8
+docker==5.0.3
+fastapi==0.85.0
+requests==2.28.0
+uvicorn==0.18.3
